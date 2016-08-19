@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["decrypt","Decrypt a message with a secret key"],["decrypt_single_message","Decrypt single message with a secret key"],["encrypt","Encrypt a message with a public key"],["encrypt_single_message","Encrypt a message with a public key"]]});
